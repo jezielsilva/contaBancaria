@@ -1,0 +1,6 @@
+C:\Users\Jeziel\RiderProjects\contaBancaria\contaBancaria\bin\Debug\contaBancaria.exe
+C:\Users\Jeziel\RiderProjects\contaBancaria\contaBancaria\bin\Debug\contaBancaria.pdb
+C:\Users\Jeziel\RiderProjects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.csprojAssemblyReference.cache
+C:\Users\Jeziel\RiderProjects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\Jeziel\RiderProjects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.exe
+C:\Users\Jeziel\RiderProjects\contaBancaria\contaBancaria\obj\Debug\contaBancaria.pdb
